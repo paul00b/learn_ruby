@@ -1,5 +1,9 @@
-Test First Ruby -- RSpec 3 Edition
-==========
+Je suis allé jusqu'a l'exercice "Book Title", avec une erreur que je n'arrive pas à résoudre (j'ai plus la foi de continuer, j'avoue)
+
+J'ai essayé de commenter mon code pour que ce soit plus facile à corriger, bon courage 
+<3
+
+
 
 ### Set up instructions
 

@@ -3,6 +3,8 @@ Je suis allé jusqu'a l'exercice "Book Title", avec une erreur que je n'arrive p
 J'ai essayé de commenter mon code pour que ce soit plus facile à corriger, bon courage 
 <3
 
+Par Anis et Paul Broussolle
+
 
 
 ### Set up instructions
